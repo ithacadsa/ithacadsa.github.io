@@ -17,7 +17,7 @@ title: Ithaca DSA
 email: contact@ithacadsa.org
 description: >-
   The website of the Ithaca, NY Local of Democratic Socialists of America.
-baseurl: "/tmp"
+baseurl: ""
 url: "https://ithacadsa.org"
 twitter_username: ithacadsa
 

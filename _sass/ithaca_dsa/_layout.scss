@@ -17,12 +17,24 @@
   letter-spacing: -1px;
   margin-bottom: 0;
   float: left;
-  font-color: $dsa-black;
+  color: $dsa-black;
+  &:hover {
+    color: $dsa-red;
+  }
 
   img {
     height: $base-line-height * $base-font-size * 2.25;
     margin-bottom: 3px;
     margin-right: 0.5em;
+    background: $dsa-black;
+    &:hover {
+      background: $dsa-red;
+    }
+  }
+
+  &,
+  &:visited {
+    color: $grey-color-dark;
   }
 }
 

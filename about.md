@@ -12,12 +12,15 @@ We will also be working on affordable housing and opposing police militarization
 
 ## Ithaca DSA Officers
 
-| David Foote   | Chair      | 
-| Chuck Wynns   | Vice Chair |
-| Theresa Alt   | Secretary  |
-| Wayles Browne | Treasurer  |
+| [David Foote][foote-email]   | Chair      | 
+| Chuck Wynns                  | Vice Chair |
+| [Theresa Alt][alt-email]     | Secretary  |
+| Wayles Browne                | Treasurer  |
 
 [cable-link]: http://pegasys.webstarts.com/index.html
 [alternatives-link]: https://www.alternativeslibrary.org/
 [wrfi-link]: https://www.wrfi.org/
+
+[foote-email]: mailto:dplf00@gmail.com
+[alt-email]: mailto:talt@igc.org
 

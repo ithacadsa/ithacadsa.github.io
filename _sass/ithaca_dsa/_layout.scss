@@ -20,6 +20,13 @@
   color: $dsa-black;
   &:hover {
     color: $dsa-red;
+    text-decoration: none;
+    img {
+      background: $dsa-black;
+    }
+  }
+  &:visited {
+    color: $dsa-black;
   }
 
   img {
@@ -27,9 +34,6 @@
     margin-bottom: 3px;
     margin-right: 0.5em;
     background: $dsa-black;
-    &:hover {
-      background: $dsa-red;
-    }
   }
 }
 

@@ -22,24 +22,24 @@
   letter-spacing: -1px;
   margin-bottom: 0;
   float: left;
-  color: $dsa-black;
+  color: $dsa-red;
 
   img {
     height: $base-line-height * $base-font-size * 1.75;
     width: $base-line-height * $base-font-size * 1.35755;
     margin-right: 0.5em;
-    background: $dsa-black;
+    background: $dsa-red;
   }
 
   &:visited {
-    color: $dsa-black;
+    color: $dsa-red;
   }
 
   &:hover {
-    color: $dsa-red;
+    color: $dsa-black;
     text-decoration: none;
     img {
-      background: $dsa-red;
+      background: $dsa-black;
     }
   }
 }

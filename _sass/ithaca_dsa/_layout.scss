@@ -18,22 +18,24 @@
   margin-bottom: 0;
   float: left;
   color: $dsa-black;
-  &:hover {
-    color: $dsa-red;
-    text-decoration: none;
-    img {
-      background: $dsa-black;
-    }
-  }
-  &:visited {
-    color: $dsa-black;
-  }
 
   img {
     height: $base-line-height * $base-font-size * 2.25;
     margin-bottom: 3px;
     margin-right: 0.5em;
     background: $dsa-black;
+  }
+
+  &:hover {
+    color: $dsa-red;
+    text-decoration: none;
+    img {
+      background: $dsa-red;
+    }
+  }
+
+  &:visited {
+    color: $dsa-black;
   }
 }
 

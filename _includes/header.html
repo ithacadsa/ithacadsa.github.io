@@ -4,7 +4,6 @@
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
     <a class="site-title" rel="author" href="{{ "/" | relative_url }}"><img alt="DSA Logo" src={{ "/assets/img/dsa_logo-bw-100.png" | absolute_url }} /><span class="site-title-long">Ithaca Democratic Socialists</span><span class="site-title-short">Ithaca DSA</span></a>
-
     {%- if page_paths -%}
       <nav class="site-nav">
         <input type="checkbox" id="nav-trigger" class="nav-trigger" />

@@ -40,6 +40,15 @@
   }
 }
 
+.site-title-short {
+  display: none;
+}
+
+@media screen and (max-width: 400px) {
+   .site-title-short { display: inline; }
+   .site-title-long { display: none; }
+}
+
 .site-nav {
   float: right;
   line-height: $base-line-height * $base-font-size * 2.25;

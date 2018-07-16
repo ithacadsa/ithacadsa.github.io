@@ -13,14 +13,15 @@
 .site-title {
   @include relative-font-size(1.625);
   font-weight: 900;
-  line-height: $base-line-height * $base-font-size * 3.25;
+  line-height: $base-line-height * $base-font-size * 2.25;
   letter-spacing: -1px;
   margin-bottom: 0;
   float: left;
 
   img {
-    height: $base-line-height * $base-font-size * 3.25;
-    margin-bottom: 2px;
+    height: $base-line-height * $base-font-size * 2.25;
+    margin-bottom: 4px;
+    margin-left: 0.5em;
   }
 
   &,

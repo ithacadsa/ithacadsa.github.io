@@ -26,16 +26,16 @@
     background: $dsa-black;
   }
 
+  &:visited {
+    color: $dsa-black;
+  }
+
   &:hover {
     color: $dsa-red;
     text-decoration: none;
     img {
       background: $dsa-red;
     }
-  }
-
-  &:visited {
-    color: $dsa-black;
   }
 }
 

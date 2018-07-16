@@ -10,6 +10,13 @@ Ithaca DSA members also produce a half-hour radio program on [WRFI Community Rad
 
 We will also be working on affordable housing and opposing police militarization and jail expansion in this community.
 
+## Ithaca DSA Officers
+
+| David Foote   | Chair      | 
+| Chuck Wynns   | Vice Chair |
+| Theresa Alt   | Secretary  |
+| Wayles Browne | Treasurer  |
+
 [cable-link]: http://pegasys.webstarts.com/index.html
 [alternatives-link]: https://www.alternativeslibrary.org/
 [wrfi-link]: https://www.wrfi.org/

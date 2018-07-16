@@ -20,10 +20,11 @@ description: >-
 baseurl: ""
 url: "https://ithacadsa.org"
 twitter_username: ithacadsa
+facebook_username: ithacadsa
+instagram_username: ithacadsa
 
 # Build settings
 markdown: kramdown
-theme: minima
 plugins:
   - jekyll-feed
 

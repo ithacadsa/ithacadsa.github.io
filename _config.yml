@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Ithaca DSA
-email: contact@ithacadsa.org
+email: ithacanydsa@gmail.com
 description: >-
   The website of the Ithaca, NY Local of Democratic Socialists of America.
 baseurl: ""

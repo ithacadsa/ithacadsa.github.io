@@ -75,6 +75,24 @@
     }
   }
 
+  .join-dsa-link {
+    color: white;
+    background-color: $dsa-red;
+    border: 10px solid $dsa-red;
+    line-height: $base-line-height;
+    font-weight: bold;
+
+    // Gaps between nav items, but not on the last one
+    &:not(:last-child) {
+      margin-right: 20px;
+    }
+    
+    &:hover {
+      background-color: $dsa-black;
+      border: 10px solid $dsa-black;
+    }
+  }
+
   @include media-query($on-palm) {
     position: absolute;
     top: 9px;

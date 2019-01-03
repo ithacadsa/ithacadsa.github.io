@@ -4,23 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Ithaca DSA has a weekly cable access television program "Ithaca DSA Presents", a half-hour talk show covering local, national and international politics, economics and labor. It airs Tuesdays at 7:00 pm and Thursdays at 11:00 pm on [Time-Warner Cable Channel 13][cable-link] in Tompkins County; DVDs of the program can be borrowed from the [Alternatives Library][alternatives-link] in Anabel Taylor Hall on the Cornell Campus.
+Ithaca is consistently rated among the most beautiful and pleasant small cities in the country -- as well as registering a cost of living that makes it one of the least affordable. Prohibitively high rents and stark income disparities are as much a part of our identity as our local foods, social consciousness, and amazing scenery.
 
-Ithaca DSA members also produce a half-hour radio program on [WRFI Community Radio][wrfi-link] called The Inquiring Socialist. The program airs at 6:30pm on alternate Tuesdays.
+Our local leadership could do a lot more to help our poorest citizens. In the absence of this, our chapter organizes and agitates for affordable housing, an end to unjust policing and incarceration, a better healthcare system for all, fair wages, and environmental justice. We work with community groups and activists to create a better world, in opposition to the comfortable, complacent neoliberal status quo.
 
-We will also be working on affordable housing and opposing police militarization and jail expansion in this community.
+Our chapter is one of the oldest in the country, formerly functioning as part of the Democratic Socialist Organizing Committee before it merged with the New American Movement to form DSA in 1982. Ithaca’s mayor from 1989 to 1995 was Ben Nichols, a member of DSA and one of only a few open socialists to hold elected office at the end of the 20th century.
 
-## Ithaca DSA Officers
-
-| [David Foote][foote-email]   | Chair      | 
-| Chuck Wynns                  | Vice Chair |
-| [Theresa Alt][alt-email]     | Secretary  |
-| Wayles Browne                | Treasurer  |
-
-[cable-link]: http://pegasys.webstarts.com/index.html
-[alternatives-link]: https://www.alternativeslibrary.org/
-[wrfi-link]: https://www.wrfi.org/
-
-[foote-email]: mailto:dplf00@gmail.com
-[alt-email]: mailto:talt@igc.org
+It’s not enough to celebrate this legacy. We are determined to play a role in the development of socialism in our region and our country as we build a better world for all.
 

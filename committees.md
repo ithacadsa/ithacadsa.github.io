@@ -4,6 +4,8 @@ title: Committees & Working Groups
 permalink: /committees/
 ---
 
+* *Note: All committees are led by members working together as volunteers. If you would like to get involved with these or start one of your own, just reach out.* *
+
 ## Affordable Housing Committee
 
 We aim to help the community gain housing that is affordable to low-income and
@@ -20,24 +22,18 @@ Meetings are irregular, based on needs and local events. If you’d like to work
 with us, email [ithacanydsa@gmail.com][main-email] or attend a monthly general
 meeting.
 
-## Abolition Committee
+## Electoral Committee
 
-Our mission is to dismantle oppressive state institutions and replace them with
-community based alternatives and de-commodified universal public goods. Around
-70% of people in the county jail are unsentenced, awaiting trial or sentencing.
-The county must determine how to reduce this population & avoid the cost of
-“boarding out” to other facilities.
+DSA is a big-tent socialist organization, not a political party. Our
+electoral committee plans how best to support local and state politicians who
+will work to implement socialist projects. ** **In 2020, we are organizing to support the Sanders campaign for president. If you would like to get involved, please send us an email.
 
-Ithaca is putting in place Law Enforcement Assisted Diversion, which allows
-officers to refer to a case worker instead of making a low-level arrest. While
-promising, it could reproduce the same dynamics that have undermined most
-criminal justice reforms. We need the freedom of abolition: the elimination of
-the violent regulation of behavior. We need the dignity of socialism: a public
-infrastructure that decommodifies health, welfare and housing guaranteeing them
-for all.
+Ithaca DSA’s members have recently held training workshops on local election
+rules and practices. We’re collaborating with potential candidates and building
+towards a stronger, better and more inclusive left.
 
-We meet regularly with Decarcerate Tompkins County. For more information, email
-[ithacanydsa@gmail.com][main-email].
+Meetings are irregular, based on our members’ availability. If you’d like to
+work with us, email [ithacanydsa@gmail.com][main-email] or attend a monthly general meeting.
 
 ## TV & Radio
 
@@ -52,29 +48,13 @@ Our members also produce a half-hour program on WRFI Community Radio called The
 Inquiring Socialist. The program airs at 6:30 p.m. on alternate Tuesdays. See
 [wrfi.org](https://wrfi.org) to hear recent episodes. 
 
-## Electoral Committee
+## Anti-Capitalist Reading Group (ARG)
 
-DSA is a big-tent socialist organization, not a political party. The national
-organization supports volunteer work and priorities at the local level. Our
-electoral committee plans how best to support local and state politicians who
-will work to implement projects such as Medicare for All, fight against rampant
-economic inequality, support racial justice and effect broad social change. 
-
-Ithaca DSA’s members have recently held training workshops on local election
-rules and practices. We’re collaborating with potential candidates and building
-towards a stronger, better and more inclusive left.
-
-Meetings are irregular, based on our members’ availability. If you’d like to
-work with us, email [ithacanydsa@gmail.com][main-email] or attend a monthly general meeting.
-
-## Jacobin Reading Group
-
-Jacobin reading groups bring leftists together to engage with ideas in a lively
+The Anti-Capitalist reading group bring local leftists together to engage with ideas in a lively
 and open environment. The groups are valuable intellectual spaces that cut
 across organizational boundaries. 
 
-Our own reading group, which operates independently from the chapter, has
-discussed topics including:
+Our own reading group has discussed topics including:
 
  * The ABCs of socialism
  * Questions of violence in revolutionary movements
@@ -85,6 +65,13 @@ discussed topics including:
 Participants help select monthly readings and start the conversation by
 presenting their own take on the literature. Find out when the next meeting is
 by joining [the Google group][reading-group] at [jacobin-reading-group-ithaca@googlegroups.com][reading-email].
+
+## Abolition Committee
+
+Our mission is to dismantle oppressive state institutions and replace them with
+community based alternatives and de-commodified universal public goods. 
+
+Note: This committee is currently on hiatus. However, our members have been active with local campaigns to achieve justice for citizens unfairly targeted and brutalized by police.
 
 ## Other Opportunities
 

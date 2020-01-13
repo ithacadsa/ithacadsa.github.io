@@ -4,7 +4,7 @@ title: Committees & Working Groups
 permalink: /committees/
 ---
 
-* *All committees are led by members working together as volunteers. If you would like to get involved with these or start one of your own, just reach out.
+**All committees are led by members working together as volunteers. If you would like to get involved with these or start one of your own, just reach out.**
 
 ## Affordable Housing Committee
 
@@ -26,7 +26,7 @@ meeting.
 
 DSA is a big-tent socialist organization, not a political party. Our
 electoral committee plans how best to support local and state politicians who
-will work to implement socialist projects. **In 2020, we are organizing to support the Sanders campaign for president. If you would like to get involved, please send us an email.
+will work to implement socialist projects. **In 2020, we are organizing to support the Sanders campaign for president. If you would like to get involved, please send us an email.**
 
 Ithaca DSA’s members have recently held training workshops on local election
 rules and practices. We’re collaborating with potential candidates and building

@@ -71,7 +71,7 @@ by joining [the Google group][reading-group] at [jacobin-reading-group-ithaca@go
 Our mission is to dismantle oppressive state institutions and replace them with
 community based alternatives and de-commodified universal public goods. 
 
-* *Note: This committee is currently on hiatus. However, our members have been active with local campaigns to achieve justice for citizens unfairly targeted and brutalized by police.
+**Note: This committee is currently on hiatus. However, our members have been active with local campaigns to achieve justice for citizens unfairly targeted and brutalized by police.**
 
 ## Other Opportunities
 

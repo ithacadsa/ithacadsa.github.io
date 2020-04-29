@@ -46,7 +46,7 @@ Theresa Alt tells David Foote about what the country need before the next epidem
 
 ## COVID-19: Socialist Response
 
-*Interview by Wayles Browne with guest Rene Rojas.*
+*Interview by Wayles Browne with guest René Rojas.*
 
 <p align="center"><a href="http://www.youtube.com/watch?feature=player_embedded&v=8m9560OYQzI
 " target="_blank"><img src="http://img.youtube.com/vi/8m9560OYQzI/0.jpg" 

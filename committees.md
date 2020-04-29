@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Committees & Working Groups
+title: Committees
 permalink: /committees/
 ---
 

@@ -16,9 +16,9 @@ permalink: /news/
 
 *Interview by Aurora Rojer with guest Genevieve Rand*
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=vAr_6Vwt0q8
+<p align="center"><a href="http://www.youtube.com/watch?feature=player_embedded&v=vAr_6Vwt0q8
 " target="_blank"><img src="http://img.youtube.com/vi/vAr_6Vwt0q8/0.jpg" 
-alt="Rent Freeze in Ithaca" width="40%" border="10" /></a>
+alt="Rent Freeze in Ithaca" width="40%" border="10" /></a></p>
 
 Genevieve Rand tells Aurora Rojer about the campaign to get Ithaca Common Council to ensure that renters who have lost their jobs will not owe back rent when the eviction moratorium ends in June. The main tactic was a phone zap with over 100 people calling Council for 3 days. However, Council refused to vote for it. The Ithaca Tenants Union was instrumental and is renters' best hope for the future. Recorded April 22, 2020.
 
@@ -28,9 +28,9 @@ Genevieve Rand tells Aurora Rojer about the campaign to get Ithaca Common Counci
 
 *Interview by David Foote with guest Theresa Alt. Excuse the video compression -- it was our first shot!*
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=KfovJxGrmrM
+<p align="center"><a href="http://www.youtube.com/watch?feature=player_embedded&v=KfovJxGrmrM
 " target="_blank"><img src="http://img.youtube.com/vi/KfovJxGrmrM/0.jpg" 
-alt="COVID-19: Socialist Solution" width="40%" border="10" /></a>
+alt="COVID-19: Socialist Solution" width="40%" border="10" /></a></p>
 
 Theresa Alt tells David Foote about what the country need before the next epidemic. Medicare for All would cover everyone for all medical, dental, vision and mental needs at less cost than the present system. Savings come from eliminating waste. The New York Health Act would do similar things in this state. Recorded April 11, 2020.
 
@@ -48,9 +48,9 @@ Theresa Alt tells David Foote about what the country need before the next epidem
 
 *Interview by Wayles Browne with guest Rene Rojas.*
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=8m9560OYQzI
+<p align="center"><a href="http://www.youtube.com/watch?feature=player_embedded&v=8m9560OYQzI
 " target="_blank"><img src="http://img.youtube.com/vi/8m9560OYQzI/0.jpg" 
-alt="COVID-19: Socialist Response" width="40%" border="10" /></a>
+alt="COVID-19: Socialist Response" width="40%" border="10" /></a></p>
 
 René Rojas and Wayles Browne discuss the COVID-19 crisis. What has gone wrong? The crisis exposed the weaknesses of free markets. The housing and financial crisis of 2008 was another example. Will the government again bail out corporations? Or will it finally adopt a real solution — Medicare for All? Recorded March 21, 2020.
 

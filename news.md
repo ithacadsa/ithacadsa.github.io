@@ -6,7 +6,7 @@ permalink: /news/
 
 ## [In Light of COVID-19, Question the Legitimacy of Incarceration in Central N.Y.](https://cornellsun.com/2020/04/29/guest-room-in-light-of-covid-19-question-the-legitimacy-of-incarceration-in-central-n-y/)
 
-*Article by Barbara  & David Regenspan, DSA and Decarcerate Tompkins Organizers*
+*Article by Barbara  & David Regenspan, DSA and Decarcerate Tompkins County Organizers*
 
 "The coronavirus threatens us all, but those incarcerated in New York State’s prisons and immigrant detention centers are especially vulnerable.  Now more than ever, we need to question the legitimacy of incarceration as a means of promoting justice in our society. We need to re-educate ourselves."
 

@@ -9,11 +9,9 @@ permalink: /committees/
 ## Affordable Housing Committee
 
 We aim to help the community gain housing that is affordable to low-income and
-to working people. Both rents and house prices are rising, and longtime
-residents are being forced to move farther and farther from the city where they
-work—a hardship for people and a disaster for the the environment. We speak at
-meetings of government bodies and in small meetings with individual officials
-to point out counterproductive tax abatements for luxury housing. 
+to working people. Before 2020, both rents and house prices were rising, and longtime
+residents being forced to move farther and farther from the city where they
+work—a hardship for people and a disaster for the the environment. Currently, the health and economic crises are making rent payments impossible. We are working to support the [Ithaca Tenant Union's](https://www.ithacatu.org) campaign for a rent freeze.
 
 Trickle-down does not work. Increasing the supply of affordable housing will
 require some combination of public ownership, public financing and regulation.
@@ -26,7 +24,7 @@ meeting.
 
 DSA is a big-tent socialist organization, not a political party. Our
 electoral committee plans how best to support local and state politicians who
-will work to implement socialist projects. **In 2020, we are organizing to support the Sanders campaign for president. If you would like to get involved, please send us an email.**
+will work to implement socialist projects. 
 
 Ithaca DSA’s members have recently held training workshops on local election
 rules and practices. We’re collaborating with potential candidates and building
@@ -71,7 +69,7 @@ by joining [the Google group][reading-group] at [jacobin-reading-group-ithaca@go
 Our mission is to dismantle oppressive state institutions and replace them with
 community based alternatives and de-commodified universal public goods. 
 
-**Note: This committee is currently on hiatus. However, our members have been active with local campaigns to achieve justice for citizens unfairly targeted and brutalized by police.**
+**Note: This committee is currently on hiatus. However, our members are working to reorganize the group [Decarcerate Tompkins County](https://decarceratetompkinscounty.weebly.com).**
 
 ## Other Opportunities
 

@@ -4,6 +4,18 @@ title: News
 permalink: /news/
 ---
 
+## Ithaca DSA Presents: Mutual Aid Tompkins
+
+*Interview by David Foote with guests Juliana Garcia and Matt Stupak*
+
+<p align="center"><a href="http://www.youtube.com/watch?feature=player_embedded&v=Km6yfuu_xKA
+" target="_blank"><img src="http://img.youtube.com/vi/Km6yfuu_xKA/0.jpg" 
+alt="Mutual Aid Tompkins" width="40%" border="10" /></a></p>
+
+Juliana Garcia and Matt Stupak tell David Foote about Mutual Aid Tompkins. Volunteer community members help fill basic needs of nearby neighbors. Donations keep 31+ food cabinets throughout the county filled and provide direct cash aid. Just go to the website with needs or offers. It’s not charity but political work: making visible the oppressive structures that create food, health, financial and housing insecurity. Recorded May 10, 2020.
+
+[Watch on YouTube](https://youtu.be/Km6yfuu_xKA)
+
 ## [In Light of COVID-19, Question the Legitimacy of Incarceration in Central N.Y.](https://cornellsun.com/2020/04/29/guest-room-in-light-of-covid-19-question-the-legitimacy-of-incarceration-in-central-n-y/)
 
 *Article by Barbara  & David Regenspan, DSA and Decarcerate Tompkins County Organizers*

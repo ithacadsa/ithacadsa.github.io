@@ -1,3 +1,9 @@
+---
+layout: page
+title: Bylaws
+permalink: /bylaws/
+---
+
 **Bylaws of the Ithaca Local of the Democratic Socialists of America**
 
 Adopted January 9, 2000. Amended November 19, 2017, March 17, 2019
